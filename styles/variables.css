@@ -1,1 +1,12 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+  --accent-color: #000;
+  --PressStart2P: PressStart2P;
+  --Inter: Inter;
+  --font-normal: 400;
+  --font-bold: 700;
+  --color-transparent: transparent;
+  --bg-img: url(../images/background.png);
+  --contour-color: black;
+  --animation-fill-color: rgb(255, 0, 0);
+}
