@@ -15,7 +15,6 @@
   justify-items: center;
   font-family: var(--Inter), Georgia;
   font-variation-settings: "wght" var(--font-normal);
-  background-image: var(--bg-img);
   background-image:
     repeating-linear-gradient(
       to right,

@@ -6,7 +6,6 @@
   --font-normal: 400;
   --font-bold: 700;
   --color-transparent: transparent;
-  --bg-img: url(../images/background.png);
   --contour-color: black;
   --animation-fill-color: rgb(255, 0, 0);
 }
