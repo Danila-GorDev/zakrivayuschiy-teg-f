@@ -126,7 +126,7 @@
   font-weight: var(--font-normal);
   font-size: 14px;
   line-height: 100%;
-  text-shadow: 0 0 rgb(255, 255, 255);
+  text-shadow: 0 0 2px rgb(255, 255, 255);
   mix-blend-mode: hard-light;
 }
 
